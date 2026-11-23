@@ -1,0 +1,364 @@
+[
+  {
+    "text": "Dear customer, your TNEB power connection will be disconnected tonight at 9:30 PM due to unpaid electricity bill. Contact officer immediately at 9845123456.",
+    "label": "scam",
+    "category": "electricity_scam"
+  },
+  {
+    "text": "TANGEDCO ALERT: Your EB bill of Rs 850 is pending from last month. Electricity will be cut off today 8 PM. Call our electricity officer at 8765432109.",
+    "label": "scam",
+    "category": "electricity_scam"
+  },
+  {
+    "text": "URGENT: Your SBI account has been suspended due to incomplete KYC. Click http://sbi-kyc-verify-update.xyz to update your PAN immediately to avoid permanent deactivation.",
+    "label": "scam",
+    "category": "bank_kyc_phishing"
+  },
+  {
+    "text": "Dear YONO user, your SBI rewards points worth ₹9,850 will expire today. Redeem now in cash by clicking http://sbi-reward-points-yono.top",
+    "label": "scam",
+    "category": "bank_reward_scam"
+  },
+  {
+    "text": "Congratulations! You have won ₹50,000 cash prize in PhonePe scratch card. Scan this QR code and enter your UPI PIN to claim money now: http://phonepe-rewards.club/claim",
+    "label": "scam",
+    "category": "upi_reward_scam"
+  },
+  {
+    "text": "Dear user, you have received ₹2,499 cashback in GPay. Click http://gpay-cash-reward.top and enter your 4-digit UPI pin to accept transfer.",
+    "label": "scam",
+    "category": "upi_reward_scam"
+  },
+  {
+    "text": "Paytm cashback reward: ₹3,500 has been credited to your wallet. Click to accept and approve on Paytm app: http://paytm-cashback-accept.site",
+    "label": "scam",
+    "category": "upi_reward_scam"
+  },
+  {
+    "text": "CBI & Cyber Crime Department: Your Aadhaar is found involved in 24 money laundering transactions and drugs courier. You are placed under digital arrest. Call Skype officer immediately.",
+    "label": "scam",
+    "category": "digital_arrest"
+  },
+  {
+    "text": "Supreme Court / Mumbai Police: An arrest warrant has been issued in your name regarding illegal narcotics seized in courier. Transfer funds to RBI safety escrow immediately.",
+    "label": "scam",
+    "category": "digital_arrest"
+  },
+  {
+    "text": "Work from home opportunity: Earn ₹3000 to ₹8000 daily by liking YouTube videos and rating hotels on Google. Join our Telegram channel: http://t.me/earn_daily_cash_india",
+    "label": "scam",
+    "category": "job_scam"
+  },
+  {
+    "text": "Part-time job vacancy: Amazon part time product review job. Daily salary ₹4,500 credited to bank. Contact HR manager on WhatsApp: +919812345678",
+    "label": "scam",
+    "category": "job_scam"
+  },
+  {
+    "text": "Your HDFC NetBanking is blocked. Download this APK to restore access immediately: http://hdfc-security-app.online/hdfc.apk. Do not ignore.",
+    "label": "scam",
+    "category": "apk_trojan"
+  },
+  {
+    "text": "Important: ICICI iMobile security patch update required immediately. Install mandatory security app APK: http://icici-bank-security.buzz/patch.apk",
+    "label": "scam",
+    "category": "apk_trojan"
+  },
+  {
+    "text": "Notice from Delhi Police: Your vehicle has 2 pending traffic challans of Rs. 1500. Pay within 24 hours to avoid court warrant: http://echallan-parivahan-pay.site",
+    "label": "scam",
+    "category": "echallan_scam"
+  },
+  {
+    "text": "TN Traffic Police e-Challan: Over speeding violation penalty ₹1,000 pending for vehicle TN07BQ4412. Pay immediately to clear blacklist: http://tn-echallan-pay.online",
+    "label": "scam",
+    "category": "echallan_scam"
+  },
+  {
+    "text": "FedEx Courier: Your parcel tracking #FDX88291 has been detained by Mumbai Customs due to unauthorized contraband. Contact Customs officer immediately at 9123456789.",
+    "label": "scam",
+    "category": "customs_scam"
+  },
+  {
+    "text": "BlueDart Alert: Parcel containing confidential passports held at customs. Pay customs duty clearance fee of ₹4,200 via UPI: http://bluedart-customs-clear.click",
+    "label": "scam",
+    "category": "customs_scam"
+  },
+  {
+    "text": "Dear user, your SIM card will be deactivated in 24 hours due to missing Aadhaar KYC. Forward this SMS to 1900 or visit http://jio-kyc-update.buzz",
+    "label": "scam",
+    "category": "telecom_kyc"
+  },
+  {
+    "text": "Airtel KYC Alert: Your SIM will be blocked within 12 hours. Update Aadhaar details immediately by calling helpline 9823412345 or visit http://airtel-kyc-doc.xyz",
+    "label": "scam",
+    "category": "telecom_kyc"
+  },
+  {
+    "text": "Alert: Unusual login attempt detected on your ICICI account. Verify your identity and enter your OTP at http://icici-safe-login.top/auth immediately.",
+    "label": "scam",
+    "category": "credential_harvesting"
+  },
+  {
+    "text": "Your income tax refund of ₹18,450 has been approved. Submit your bank account details and debit card CVV to receive payment: http://incometax-refund-gov.click",
+    "label": "scam",
+    "category": "tax_refund_scam"
+  },
+  {
+    "text": "URGENT: Your Netflix membership expired. Update payment details within 12 hours to avoid account termination: http://netflix-renew-bill.site",
+    "label": "scam",
+    "category": "subscription_phishing"
+  },
+  {
+    "text": "Loan approved! Pre-approved personal loan of ₹5,00,000 without collateral. Transfer ₹2,500 file processing fee to start disbursement: http://fast-loan-mudra.online",
+    "label": "scam",
+    "category": "loan_scam"
+  },
+  {
+    "text": "Important notice: Your LIC policy #89234891 will lapse today. Pay renewal premium with 50% discount at http://lic-india-premium-portal.xyz immediately.",
+    "label": "scam",
+    "category": "insurance_phishing"
+  },
+  {
+    "text": "Amazon Gift Card: You have been selected to receive a free ₹10,000 gift voucher. Claim voucher now at http://amazon-rewards-claim.buzz/win",
+    "label": "scam",
+    "category": "voucher_scam"
+  },
+  {
+    "text": "India Post alert: Your package is held at regional sorting facility due to incorrect address. Update delivery address and pay re-delivery fee of ₹25: http://indiapost-parcel-update.top",
+    "label": "scam",
+    "category": "postal_scam"
+  },
+  {
+    "text": "Emergency: Your son is arrested in college brawl. Transfer ₹35,000 immediately to bail officer's UPI to avoid FIR filing.",
+    "label": "scam",
+    "category": "extortion_scam"
+  },
+  {
+    "text": "Customer Alert: Install AnyDesk app from playstore and share 9 digit code with bank representative to resolve ATM transaction issue.",
+    "label": "scam",
+    "category": "remote_access_scam"
+  },
+  {
+    "text": "Attention: Your PAN card is deactivated as per Section 139AA. Update PAN by clicking http://pan-link-aadhaar-portal.site to avoid ₹10,000 fine.",
+    "label": "scam",
+    "category": "pan_scam"
+  },
+  {
+    "text": "Dear customer, your credit card points worth ₹8,500 will expire tonight. Redeem cash into your savings account at http://card-points-redeem.online",
+    "label": "scam",
+    "category": "credit_card_points"
+  },
+  {
+    "text": "WhatsApp Gold is now available. Exclusive video calling and theme features. Download latest APK from http://whatsapp-gold-update.xyz now.",
+    "label": "scam",
+    "category": "malware_apk"
+  },
+  {
+    "text": "Warning: Unauthorized transaction of ₹49,999 on your credit card. If not done by you, cancel transaction immediately at http://secure-card-cancel.top",
+    "label": "scam",
+    "category": "bank_phishing"
+  },
+  {
+    "text": "Free PM Solar Yojana subsidy: Apply now to get ₹78,000 solar subsidy credited to your bank. Fill application at http://pmsolar-yojana-apply.top",
+    "label": "scam",
+    "category": "government_scheme_scam"
+  },
+  {
+    "text": "Gas subsidy stopped: Your Indane LPG cylinder subsidy is suspended due to pending e-KYC. Complete verification here: http://lpg-indane-kyc.site",
+    "label": "scam",
+    "category": "lpg_scam"
+  },
+
+  {
+    "text": "Check this new website out: http://bit.ly/3x8kQ9m for latest discount offers.",
+    "label": "suspicious",
+    "category": "shortened_url"
+  },
+  {
+    "text": "Special clearance sale on branded shoes. Huge discounts up to 90% off. Visit http://brand-shoes-clearance.store now.",
+    "label": "suspicious",
+    "category": "unverified_store"
+  },
+  {
+    "text": "Hey check this photo I found of you http://tinyurl.com/photoview2918",
+    "label": "suspicious",
+    "category": "shortened_url"
+  },
+  {
+    "text": "Join our VIP crypto trading signals group. High returns guaranteed within a week: http://crypto-signals-trade.online",
+    "label": "suspicious",
+    "category": "crypto_ad"
+  },
+  {
+    "text": "Your delivery package update: please review tracking information at http://192.168.1.105/track",
+    "label": "suspicious",
+    "category": "ip_address_link"
+  },
+  {
+    "text": "You have a new unread voicemail message from private caller. Listen here: http://voicemail-service-audio.site/listen",
+    "label": "suspicious",
+    "category": "voicemail_prompt"
+  },
+  {
+    "text": "Shared document: Project proposal has been shared with you via http://doc-share-cloud.top/view",
+    "label": "suspicious",
+    "category": "unknown_document_host"
+  },
+  {
+    "text": "Update your phone browser for faster speeds and security patches at http://browser-update-v2.xyz",
+    "label": "suspicious",
+    "category": "fake_update"
+  },
+  {
+    "text": "Limited time offer! Get iPhone 15 Pro for only ₹14,999 on flash clearance. Order at http://flash-deals-gadgets.site",
+    "label": "suspicious",
+    "category": "unrealistic_deal"
+  },
+  {
+    "text": "Internal notice: Please verify your company email quota at http://webmail-security-check.net.in",
+    "label": "suspicious",
+    "category": "phishing_lookalike"
+  },
+  {
+    "text": "Please confirm your meeting attendance for tomorrow: http://rb.gy/meeting998",
+    "label": "suspicious",
+    "category": "shortened_link"
+  },
+  {
+    "text": "Free WiFi access requires sign-in at http://10.0.0.1/login.aspx?auth=guest",
+    "label": "suspicious",
+    "category": "captive_portal"
+  },
+  {
+    "text": "Find out who viewed your profile recently by clicking http://profile-view-tracker.click",
+    "label": "suspicious",
+    "category": "social_tracker"
+  },
+  {
+    "text": "Click here to see hot deals in your city today http://deals-hub-city.buzz/offers",
+    "label": "suspicious",
+    "category": "unverified_offers"
+  },
+  {
+    "text": "Review our shared spreadsheet at http://is.gd/financialsheet2026",
+    "label": "suspicious",
+    "category": "shortened_url"
+  },
+  {
+    "text": "Check out this trending viral reel video: http://viral-video-clip.top/watch",
+    "label": "suspicious",
+    "category": "clickbait_url"
+  },
+
+  {
+    "text": "Dear SBI customer, your A/C 9876 has been credited with ₹25,000 on 23-Nov-26 by NEFT. Available balance: ₹48,200. SBI never asks for your confidential OTP.",
+    "label": "safe",
+    "category": "bank_transaction_alert"
+  },
+  {
+    "text": "Your OTP for login to SBI NetBanking is 549102. Valid for 10 minutes. Do not share OTP or passwords with anyone, including bank officials.",
+    "label": "safe",
+    "category": "legitimate_otp"
+  },
+  {
+    "text": "HDFC Bank: ₹450.00 debited from A/C **8910 towards UPI/Swiggy. Available balance: ₹18,430. Call 18002026161 if not authorized. Visit https://www.hdfcbank.com",
+    "label": "safe",
+    "category": "bank_transaction_alert"
+  },
+  {
+    "text": "ICICI Bank OTP: 819204 is your secret OTP for payment of ₹1,850.00 to AMAZON INDIA. Valid for 5 mins. Never share OTP with anyone.",
+    "label": "safe",
+    "category": "legitimate_otp"
+  },
+  {
+    "text": "Axis Bank Alert: Your monthly savings account statement for October 2026 is ready. Access securely on Axis Mobile app or https://www.axisbank.com.",
+    "label": "safe",
+    "category": "bank_statement"
+  },
+  {
+    "text": "Dear customer, your electricity bill of ₹680 for consumer number 04-201-002-123 is due on 28-Nov-26. Pay safely at official portal https://www.tangedco.gov.in.",
+    "label": "safe",
+    "category": "official_bill_notice"
+  },
+  {
+    "text": "TANGEDCO: Payment of ₹680 received for Consumer No 04-201-002-123 on 23-Nov-26. Receipt generated at official portal https://www.tangedco.gov.in. Thank you.",
+    "label": "safe",
+    "category": "official_bill_notice"
+  },
+  {
+    "text": "Your Amazon package with tracking #AMZ9948271 has been dispatched and will arrive tomorrow by 8 PM. Track order: https://www.amazon.in/gp/your-account/order-history",
+    "label": "safe",
+    "category": "ecommerce_delivery"
+  },
+  {
+    "text": "Flipkart order confirmed: Your order #OD982312 for wireless headphones has been placed. Expected delivery: 25 Nov. Official app https://www.flipkart.com",
+    "label": "safe",
+    "category": "ecommerce_order"
+  },
+  {
+    "text": "Parivahan Sewa: Vehicle registration certificate for TN09BZ1234 has been issued. Download digital copy from official portal https://parivahan.gov.in.",
+    "label": "safe",
+    "category": "government_portal"
+  },
+  {
+    "text": "LIC of India: Premium receipt for policy #89234891 has been generated. Thank you for paying on time. Access portal: https://licindia.in",
+    "label": "safe",
+    "category": "insurance_receipt"
+  },
+  {
+    "text": "Your Swiggy order from A2B is on the way! Delivery executive Murugan is arriving in 15 minutes. Track in official app: https://www.swiggy.com",
+    "label": "safe",
+    "category": "food_delivery"
+  },
+  {
+    "text": "Zomato: Your order from Thalappakatti has been delivered. Rate your food experience in the official app: https://www.zomato.com",
+    "label": "safe",
+    "category": "food_delivery"
+  },
+  {
+    "text": "Aadhaar authentication successful at UIDAI portal on 23-Nov-26 14:30. If not done by you, lock your biometrics at https://myaadhaar.uidai.gov.in.",
+    "label": "safe",
+    "category": "government_security"
+  },
+  {
+    "text": "IRCTC Booking Confirmation: PNR 4829102938, Train 12638 Pandian Express, Coach B2 Berth 34. Check status at https://www.irctc.co.in.",
+    "label": "safe",
+    "category": "railway_booking"
+  },
+  {
+    "text": "Dear customer, your monthly airtel broadband bill for ₹825 is generated. Pay seamlessly through official Airtel Thanks app or https://www.airtel.in.",
+    "label": "safe",
+    "category": "telecom_bill"
+  },
+  {
+    "text": "JioFiber: Your plan validity has been renewed successfully for 30 days. High speed internet is active. Manage at https://www.jio.com.",
+    "label": "safe",
+    "category": "telecom_bill"
+  },
+  {
+    "text": "Hi Rahul, are we still meeting for coffee this evening at Phoenix Mall around 6 PM? Let me know.",
+    "label": "safe",
+    "category": "personal_message"
+  },
+  {
+    "text": "Hey team, the updated sprint backlog and project documentation is on our Google Drive: https://drive.google.com/drive/u/0/my-drive",
+    "label": "safe",
+    "category": "work_message"
+  },
+  {
+    "text": "Your ICICI Bank Credit Card statement for the period ending 20-Nov-26 has been sent to your registered email. Pay bill securely at https://www.icicibank.com.",
+    "label": "safe",
+    "category": "bank_statement"
+  },
+  {
+    "text": "DigiLocker: Class 12 Marks Statement is now available in your DigiLocker account. Login securely at https://www.digilocker.gov.in.",
+    "label": "safe",
+    "category": "government_portal"
+  },
+  {
+    "text": "Uber trip receipt: ₹240 charged on your Uber ride to Central Station. Download invoice at https://www.uber.com.",
+    "label": "safe",
+    "category": "ride_receipt"
+  }
+]
