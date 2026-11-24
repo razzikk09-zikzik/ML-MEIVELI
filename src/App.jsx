@@ -19,9 +19,7 @@ import AnalystLogin from './pages/AnalystLogin';
 import AnalystDashboard from './pages/AnalystDashboard';
 
 export default function App() {
-  const [isMobile, setIsMobile] = useState(
-    window.innerWidth < 768 || sessionStorage.getItem('FORCE_MOBILE_VIEW') === 'true'
-  );
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
   const [showSettings, setShowSettings] = useState(false);
   const [user, setUser] = useState(null);
   const [isGuest, setIsGuest] = useState(sessionStorage.getItem('MEYVIZHI_GUEST_USER') === 'true');
@@ -41,13 +39,7 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    const handleResize = () => {
-      if (sessionStorage.getItem('FORCE_MOBILE_VIEW') === 'true') {
-        setIsMobile(true);
-      } else {
-        setIsMobile(window.innerWidth < 768);
-      }
-    };
+    const handleResize = () => setIsMobile(window.innerWidth < 768);
     window.addEventListener('resize', handleResize);
     return () => window.removeEventListener('resize', handleResize);
   }, []);

@@ -677,5 +677,5 @@ export default function HomePage() {
     </div>
   );
 
-  return isMobile ? renderMobile() : renderDesktop();
+  return renderMobile();
 }
