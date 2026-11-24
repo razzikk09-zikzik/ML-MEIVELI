@@ -7,6 +7,9 @@
 
 **Meiveli-NGEM** is a privacy-first, autonomous **Machine Learning Cyber Threat Intelligence Platform** engineered to detect SMS phishing (smishing), brand impersonation, urgent financial extortion, and malicious URLs in real time.
 
+> [!TIP]
+> 📖 **Faculty & Evaluator Guide:** A complete step-by-step evaluation guide for running, testing, and reviewing this project locally is available in [**FACULTY_EVALUATION_GUIDE.md**](FACULTY_EVALUATION_GUIDE.md).
+
 ---
 
 ## 📑 Table of Contents
