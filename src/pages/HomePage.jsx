@@ -288,6 +288,35 @@ export default function HomePage() {
             </div>
           </div>
         </div>
+
+        {/* Academic Project & Student Credentials */}
+        <div style={{ margin: '1rem', padding: '1rem', background: '#F8FAFC', border: '1px solid #E2E8F0', borderRadius: '0.75rem' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.625rem', marginBottom: '0.75rem', paddingBottom: '0.625rem', borderBottom: '1px solid #E2E8F0' }}>
+            <img src="/assets/crescent_logo.png" alt="Crescent" style={{ width: '2rem', height: '2rem', borderRadius: '50%', objectFit: 'cover' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+            <div>
+              <div style={{ fontFamily: 'var(--font-head)', fontWeight: '800', fontSize: '0.8125rem', color: '#0F172A' }}>
+                B. S. Abdur Rahman Crescent Institute
+              </div>
+              <div style={{ fontSize: '0.75rem', color: '#64748B' }}>
+                B.Tech E and CE • 5th Semester • ESDX 041
+              </div>
+            </div>
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.375rem', fontSize: '0.75rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+              <span style={{ fontWeight: '700', color: '#1E293B' }}>Mohammed Razik K</span>
+              <span style={{ color: '#64748B', fontFamily: 'monospace' }}>240201601062</span>
+            </div>
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+              <span style={{ fontWeight: '700', color: '#1E293B' }}>Adhithiyan RRN</span>
+              <span style={{ color: '#64748B', fontFamily: 'monospace' }}>240201601006</span>
+            </div>
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+              <span style={{ fontWeight: '700', color: '#1E293B' }}>Gautham Balaji</span>
+              <span style={{ color: '#64748B', fontFamily: 'monospace' }}>240201601022</span>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
@@ -614,6 +643,35 @@ export default function HomePage() {
               </div>
             )
           })}
+        </div>
+
+        {/* Academic Project & Student Credentials */}
+        <div style={{ margin: '1rem', padding: '1rem', background: '#F8FAFC', border: '1px solid #E2E8F0', borderRadius: '0.75rem' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.625rem', marginBottom: '0.75rem', paddingBottom: '0.625rem', borderBottom: '1px solid #E2E8F0' }}>
+            <img src="/assets/crescent_logo.png" alt="Crescent" style={{ width: '2rem', height: '2rem', borderRadius: '50%', objectFit: 'cover' }} onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+            <div>
+              <div style={{ fontFamily: 'var(--font-head)', fontWeight: '800', fontSize: '0.8125rem', color: '#0F172A' }}>
+                B. S. Abdur Rahman Crescent Institute
+              </div>
+              <div style={{ fontSize: '0.75rem', color: '#64748B' }}>
+                B.Tech E and CE • 5th Semester • ESDX 041
+              </div>
+            </div>
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.375rem', fontSize: '0.75rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+              <span style={{ fontWeight: '700', color: '#1E293B' }}>Mohammed Razik K</span>
+              <span style={{ color: '#64748B', fontFamily: 'monospace' }}>240201601062</span>
+            </div>
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+              <span style={{ fontWeight: '700', color: '#1E293B' }}>Adhithiyan RRN</span>
+              <span style={{ color: '#64748B', fontFamily: 'monospace' }}>240201601006</span>
+            </div>
+            <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+              <span style={{ fontWeight: '700', color: '#1E293B' }}>Gautham Balaji</span>
+              <span style={{ color: '#64748B', fontFamily: 'monospace' }}>240201601022</span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
